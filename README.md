@@ -26,5 +26,3 @@ Flag                   Description                                             D
 ```
 ./bfg
 ```
-
-*MadMushroom*
