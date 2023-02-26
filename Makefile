@@ -1,9 +1,9 @@
 all:
-	g++ -Wall -o main main.cpp
+	g++ -Wall -o ./bin/main ./src/*.cpp
 
 run:
-	./main
+	./bin/main
 
 all.run:
-	g++ -Wall -o main main.cpp
+	g++ -Wall -o ./bin/main ./src/*.cpp
 	./main
