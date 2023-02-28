@@ -1,5 +1,7 @@
 bin
 releases
+resource
 ./bin/*
 ./releases/*
+./resource/*
 main
