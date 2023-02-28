@@ -1,5 +1,6 @@
 bin
 releases
+res
 #resource
 ./bin/*
 ./releases/*
