@@ -3,6 +3,13 @@ BFG is a DDoS Tool written in Python and user interface in C++
 
 ## Features
 ```
+- HTTPS Requests
+- custom useragents
+- cutom amount of workers
+- cutom amount of sockets
+- different methods
+- SSL Certificate verification
+- more verbose outputs
 - Executable Binary
 - TUI Based Control
 - better error codes
